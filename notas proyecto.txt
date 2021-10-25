@@ -1,0 +1,36 @@
+-u origen master1. abrir Visual Studio Code
+2. Terminal
+3. npx create-react-app my-app
+4.cd my-app
+5. npm start
+6. Ya estoy en happy coding
+7. npm install react-bootstrap@next bootstrap@5.1.1
+8. reviso la carpeta node modulos (ver bootstrap)
+    8.1  import "bootstrap/dist/css/bootstrap.min.css"
+9. git add .
+10. git commit -m "avance header"
+11. git log 
+12. git status
+13. abrir GitHub , your repositoriy
+14. create a new repository
+15. repository name ( se escoje un nombre)create repository
+16. cppy ( git remote add origin https:// bla bla bla.git
+17. se pega en la consola
+18. git push -u origin master
+19. se revisa si se actualizo el proyecto en repositorio gitHub
+20. creat carpeta components 
+21. navbar.js 
+22. rafce ( lanza los componentes pre echos)
+23. ir a bootstrap 
+24. copy nav bar y se paga en NavBar quitando <div></div>
+25. clas se cambia por className ( control+ D )
+26. remover search y dropdoen bottom
+27.ojo se pueden descargar versiones  4.0 jquery  y no 5.0
+28. cuando se borra un proyecto  o se resetea, desde github
+30. git clone (url ...lo da en el repo)
+31. npm i ( este intala todo los paquetes que se tenian funcionado)
+
+
+theme forest plantillas de pago
+template monster
+ 
