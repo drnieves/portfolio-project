@@ -9,7 +9,7 @@ const Services = () => {
       <h1 className="py-5"> Mis Servicos </h1>
       <div className="container">
         <div className="row">
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
@@ -24,7 +24,7 @@ const Services = () => {
             </div>
           </div>
           {/*-*/}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
@@ -39,7 +39,7 @@ const Services = () => {
             </div>
           </div>
           {/*-*/}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
@@ -54,7 +54,7 @@ const Services = () => {
             </div>
           </div>
           {/*-*/}
-          <div className="col-md-3 col-sm-6">
+          <div className="col-lg-3 col-md-6 col-sm-6">
             <div className="box">
               <div className="circle">
                 {" "}
