@@ -147,9 +147,9 @@ const Portfolio = () => {
     fadeInSpeed: 500,
   };
   return (
-    <div className="portfolio-wrapper">
+    <div id="cursos" className="portfolio-wrapper">
       <div className="container">
-        <h1 className="text-uppercase text-center py-5">portfolio</h1>
+        <h1 className="text-uppercase text-center py-5">Cursos</h1>
         <div className="image-box-wrapper d-flex flex-wrap align-items-center justify-content-center">
           <div className="portfolio-image-box" onClick={openPopuboxNetflix}>
             <img className="portfolio-image" src={netflix} alt="" />

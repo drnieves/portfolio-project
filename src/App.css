@@ -56,7 +56,7 @@ nav ul li {
 }
 
 .navbar-nav > li > a.active,
-.navbar-nav > li > a.active:focus {
+.navbar-nav > li > a:focus {
   border-top: 0.1875rem solid var(--primary-pink);
 }
 .navbar-nav > li > a:hover {
@@ -68,7 +68,7 @@ nav ul li {
   background: url(mujerplaya.png);
   background-size: cover;
   background-position: center;
-  height: 90vh;
+  height: 100vh;
 }
 
 .main-info {
@@ -306,7 +306,7 @@ nav ul li {
 .portfolio-image {
   width: 15rem;
   border: 1px solid var(--primary-pink);
-  padding: 0 0.5rem;
+  padding: 0 0rem;
 }
 .portfolio-image-box {
   position: relative;
@@ -341,9 +341,14 @@ nav ul li {
   transition: 0.3s ease-in-out;
   cursor: pointer;
 }
+
+.popupbox-wrapper {
+  margin-top: 10rem;
+  z-index: 1;
+}
 /*-------------overflow box---------*/
 .portfolio-image-popupbox {
-  width: 45rem;
+  width: 39rem;
   padding: 0 0.5rem;
 }
 
@@ -354,12 +359,12 @@ nav ul li {
 /*-------------MEDIA---------*/
 @media (max-width: 768px) {
   .portfolio-image-popupbox {
-    width: 100%;
+    width: 95%;
   }
 }
 @media (max-height: 570px) {
   .popupbox-wrapper {
-    height: 100%;
+    height: 90%;
   }
   .portfolio-image-popupbox {
     width: 90%;
@@ -513,4 +518,22 @@ textarea.form-control {
 }
 .contacts p {
   padding: 0 0.4rem;
+}
+/***************Footer Component ************/
+.footer {
+  background: var(--primary-black);
+  color: var(--primary-dark-gray);
+  padding: 3rem;
+}
+
+.footer a {
+  text-decoration: none;
+  color: var(--primary-dark-gray);
+}
+.footer a:hover {
+  text-decoration: none;
+  color: var(--primary-pink);
+}
+.footer p {
+  margin-bottom: 0;
 }

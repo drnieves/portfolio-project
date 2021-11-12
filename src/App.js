@@ -9,6 +9,7 @@ import Experience from "./components/Experience";
 import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/TestimonialsCarousel";
 import Contacts from "./components/Contacts";
+import Footer from "./components/Footer";
 function App() {
   return (
     <>
@@ -55,6 +56,7 @@ function App() {
       <Portfolio />
       <Testimonials />
       <Contacts />
+      <Footer />
     </>
   );
 }
