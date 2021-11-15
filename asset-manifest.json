@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-project-tutorial/static/css/main.b4a7d679.chunk.css",
+    "main.js": "/portfolio-project-tutorial/static/js/main.742ee250.chunk.js",
+    "main.js.map": "/portfolio-project-tutorial/static/js/main.742ee250.chunk.js.map",
+    "runtime-main.js": "/portfolio-project-tutorial/static/js/runtime-main.cbcf442c.js",
+    "runtime-main.js.map": "/portfolio-project-tutorial/static/js/runtime-main.cbcf442c.js.map",
+    "static/css/2.d703c6cb.chunk.css": "/portfolio-project-tutorial/static/css/2.d703c6cb.chunk.css",
+    "static/js/2.6fa35646.chunk.js": "/portfolio-project-tutorial/static/js/2.6fa35646.chunk.js",
+    "static/js/2.6fa35646.chunk.js.map": "/portfolio-project-tutorial/static/js/2.6fa35646.chunk.js.map",
+    "static/js/3.6458c0e2.chunk.js": "/portfolio-project-tutorial/static/js/3.6458c0e2.chunk.js",
+    "static/js/3.6458c0e2.chunk.js.map": "/portfolio-project-tutorial/static/js/3.6458c0e2.chunk.js.map",
+    "index.html": "/portfolio-project-tutorial/index.html",
+    "static/css/2.d703c6cb.chunk.css.map": "/portfolio-project-tutorial/static/css/2.d703c6cb.chunk.css.map",
+    "static/css/main.b4a7d679.chunk.css.map": "/portfolio-project-tutorial/static/css/main.b4a7d679.chunk.css.map",
+    "static/js/2.6fa35646.chunk.js.LICENSE.txt": "/portfolio-project-tutorial/static/js/2.6fa35646.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.16210cb5.png": "/portfolio-project-tutorial/static/media/avatar-1.16210cb5.png",
+    "static/media/avatar-2.a178d7cd.png": "/portfolio-project-tutorial/static/media/avatar-2.a178d7cd.png",
+    "static/media/avatar-3.f63efaef.png": "/portfolio-project-tutorial/static/media/avatar-3.f63efaef.png",
+    "static/media/avatar-4.d265ab8f.png": "/portfolio-project-tutorial/static/media/avatar-4.d265ab8f.png",
+    "static/media/cityGuide.20ccc3e9.png": "/portfolio-project-tutorial/static/media/cityGuide.20ccc3e9.png",
+    "static/media/logo.b0f4accb.png": "/portfolio-project-tutorial/static/media/logo.b0f4accb.png",
+    "static/media/me.cda7a40f.png": "/portfolio-project-tutorial/static/media/me.cda7a40f.png",
+    "static/media/App.css": "/portfolio-project-tutorial/static/media/testimonials-bg.d0d0a611.png",
+    "static/media/netflix.9639debd.png": "/portfolio-project-tutorial/static/media/netflix.9639debd.png",
+    "static/media/portfolio.f3d5cd40.png": "/portfolio-project-tutorial/static/media/portfolio.f3d5cd40.png",
+    "static/media/taskManager.bc711ba6.png": "/portfolio-project-tutorial/static/media/taskManager.bc711ba6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbcf442c.js",
+    "static/css/2.d703c6cb.chunk.css",
+    "static/js/2.6fa35646.chunk.js",
+    "static/css/main.b4a7d679.chunk.css",
+    "static/js/main.742ee250.chunk.js"
+  ]
+}
