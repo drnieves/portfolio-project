@@ -29,8 +29,17 @@
 28. cuando se borra un proyecto  o se resetea, desde github
 30. git clone (url ...lo da en el repo)
 31. npm i ( este intala todo los paquetes que se tenian funcionado)
+32. emmet abreviacion !tab eestructura basica de web
+
 
 
 theme forest plantillas de pago
 template monster
- 
+ e4UCpi6SYUNL.EP
+https://student.emeritus.org/courses/3130/pages/week-13-solution-files?module_item_id=585458
+https://student.emeritus.org/courses/3130/pages/week-14-solution-files?module_item_id=585493
+https://student.emeritus.org/courses/3130/pages/week-15-solution-files?module_item_id=585519
+https://github.com/jlucki13/ATM-Improvements/blob/main/atmimprovementsfinal.jsx        PARA REVISAR
+Updating ATM setup to allow user to deposit or withdrawal money
+https://github.com/drnieves/ATM-Improvements1/tree/main
+Latest updates: updated user interface to be more visual (ie colors), added functionality to prevent users from withdrawaling more money than they have, if they do put in a withdrawal than more than they have an alert also pops up telling them the total balance and greatest amount they can withdrawal. Also, the buttons were removed so now a user has to select from the drop down what they would like to do before an input field is visible.
