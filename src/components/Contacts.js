@@ -22,10 +22,10 @@ const Contacts = () => {
   return (
     <div id="contacto" className="contacts">
       <div className="text-center">
-        <h1>Contact me</h1>
+        <h1>Escribeme</h1>
         <p>
-          Please fill out the form and describe your proyect needs and i'll
-          contact you as soon as posible
+          Si deseas más información llama al +573214466552 (clinica nieves) o si
+          lo prefieres envíame tus datos y un MSN.
         </p>
       </div>
       <div className="container">
@@ -37,7 +37,7 @@ const Contacts = () => {
                 <input
                   type="text"
                   className="form-control"
-                  placeholder="Name"
+                  placeholder="Nombre"
                   name="name"
                 />
                 <div className="line"></div>
@@ -47,7 +47,7 @@ const Contacts = () => {
                 <input
                   type="text"
                   className="form-control"
-                  placeholder="Phone Number"
+                  placeholder="Teléfono"
                   name="phone"
                 />
                 <div className="line"></div>
@@ -67,7 +67,7 @@ const Contacts = () => {
                 <input
                   type="text"
                   className="form-control"
-                  placeholder="Subject"
+                  placeholder="Asunto"
                   name="subject"
                 />
                 <div className="line"></div>
@@ -79,13 +79,13 @@ const Contacts = () => {
                 <textarea
                   type="text"
                   className="form-control"
-                  placeholder="Por favor envianos tus comentarios... "
+                  placeholder="Por favor envía aquí  tus comentarios... "
                   name="description"
                 ></textarea>
                 <div className="line"></div>
               </div>
               <button className="btn-main-offer contact-btn " type="submit">
-                contact me
+                enviar
               </button>
             </div>
           </div>

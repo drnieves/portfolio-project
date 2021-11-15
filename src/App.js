@@ -10,6 +10,9 @@ import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/TestimonialsCarousel";
 import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
+import NavbarPoke from "./components/NavbarPoke";
+import SearchbarPoke from "./components/SearchbarPoke";
+import Pokedex from "./components/Pokedex";
 function App() {
   return (
     <>
@@ -49,7 +52,11 @@ function App() {
         }}
       />
       <Navbar />
+
       <Header />
+      <NavbarPoke />
+      <SearchbarPoke />
+      <Pokedex />
       <AboutMe />
       <Services />
       <Experience />

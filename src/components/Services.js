@@ -1,6 +1,11 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faFacebookF, faGoogle } from "@fortawesome/free-brands-svg-icons";
+import {
+  faYelp,
+  faVine,
+  faFreeCodeCamp,
+  faTencentWeibo,
+} from "@fortawesome/free-brands-svg-icons";
 import { faDesktop, faFileCode } from "@fortawesome/free-solid-svg-icons";
 
 const Services = () => {
@@ -15,12 +20,12 @@ const Services = () => {
                 {" "}
                 <FontAwesomeIcon
                   className="icon"
-                  icon={faDesktop}
+                  icon={faYelp}
                   size="2x"
                 />{" "}
               </div>
               <h3>Arañitas</h3>
-              <p>Me aproximoa acada proyecto de forma individual</p>
+              <p>Pocas sesiones, resultados increíbles con LASER. </p>
             </div>
           </div>
           {/*-*/}
@@ -30,12 +35,14 @@ const Services = () => {
                 {" "}
                 <FontAwesomeIcon
                   className="icon"
-                  icon={faGoogle}
+                  icon={faVine}
                   size="2x"
                 />{" "}
               </div>
               <h3>Varices</h3>
-              <p>Cursos especializdos en nuevas tecnologias </p>
+              <p>
+                Sin Anestesia y sin Cortes, tenemos la cirugía más moderna.{" "}
+              </p>
             </div>
           </div>
           {/*-*/}
@@ -45,12 +52,12 @@ const Services = () => {
                 {" "}
                 <FontAwesomeIcon
                   className="icon"
-                  icon={faFileCode}
+                  icon={faFreeCodeCamp}
                   size="2x"
                 />{" "}
               </div>
               <h3>Úlcera Varicosa</h3>
-              <p>Laser y entrenamiento focalizado para </p>
+              <p>Somos expertos; Publicaciones y premios internacionales. </p>
             </div>
           </div>
           {/*-*/}
@@ -60,12 +67,12 @@ const Services = () => {
                 {" "}
                 <FontAwesomeIcon
                   className="icon"
-                  icon={faFacebookF}
+                  icon={faTencentWeibo}
                   size="2x"
                 />{" "}
               </div>
               <h3>Pie Diabetico</h3>
-              <p>Siriendo con calidad desde 2003 </p>
+              <p>Luchamos para prevenir una posible amputación. </p>
             </div>
           </div>
         </div>

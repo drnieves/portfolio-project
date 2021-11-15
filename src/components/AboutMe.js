@@ -15,13 +15,22 @@ const AboutMe = () => {
           </div>
         </div>
         <div className="col-lg-6 col-xm-12">
-          <h1 className="about-heading"> about me</h1>
-          <p>
-            El tratamiento cosmético de la enfermedad venosa ha avanzado mucho
-            en los últimos años, esta técnica creada en Brasil por los Doctores
-            Miyake y Kikuchi, usa la tecnología láser Nd: Yag para el cierre de
-            las venitas principales y lo asocian con escleroterapia para obtener
-            resultados más rápidos y estéticamente más bonitos.
+          <h1 className="about-heading"> Cirujano Vascular</h1>
+          <p className="d-flex justify-content-center">
+            Hola, soy el Dr. Nieves, estoy para ayudarte en la búsqueda del
+            mejor tratamiento para puedas disfrutar de piernas lindas y
+            saludables.
+          </p>
+          <p className="d-flex justify-content-center">
+            Experto internacional en el uso de Laser para el manejo cosmético y
+            quirúrgico de los problemas relacionados con la enfermedad venosa.{" "}
+          </p>
+
+          <p className="d-flex justify-content-center">
+            {" "}
+            Para ti que buscas el mejor tratamiento, en clínica nieves cuento
+            con la mejor tecnología para ofrecerte procedimientos ambulatorios,
+            avanzados y de calidad.{" "}
           </p>
         </div>
       </div>

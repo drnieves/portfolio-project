@@ -15,7 +15,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-lg-4 col-md-6 col-sm-6">
             <div className="d-flex">
-              <p>Yopal City Cra 21 35-68 Casanare - Colombia</p>
+              <p>Yopal Cra 21 35-68 Casanare - Colombia</p>
             </div>
             <div className="d-flex">
               <a href="tel:3214466552">+57(321)4466552</a>
@@ -27,19 +27,19 @@ const Footer = () => {
           <div className="col-lg-3 col-md-2 col-sm-6">
             <div className="row">
               <div className="col">
-                <a className="footer-nav"> Home</a>
+                <a className="footer-nav"> Clinica Nieves</a>
                 <br />
-                <a className="footer-nav"> About me</a>
+                <a className="footer-nav"> Videos</a>
                 <br />
-                <a className="footer-nav"> Services</a>
+                <a className="footer-nav"> Articulos</a>
                 <br />
               </div>
               <div className="col">
-                <a className="footer-nav"> Experience</a>
+                <a className="footer-nav"> Yopal</a>
                 <br />
-                <a className="footer-nav"> Portfolio</a>
+                <a className="footer-nav"> Casanare</a>
                 <br />
-                <a className="footer-nav"> Contacts</a>
+                <a className="footer-nav"> Colombia</a>
               </div>
             </div>
           </div>
