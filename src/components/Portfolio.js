@@ -19,16 +19,21 @@ const Portfolio = () => {
         <img
           className="portfolio-image-popupbox"
           src={netflix}
-          alt="la imagen netflix"
+          alt="flebo-suite en clinica nieves yopal"
         />
-        <p>Lorem ipsum lorem ipsum lorem ipsum </p>
-        <b>GitHub</b>{" "}
+        <p>
+          Una Flebo-Suite moderna, amplia, donde cryo-escleroterapia y el laser
+          hacen su magia.{" "}
+        </p>
+        <b>Tratamiento Cryo-Laser Cryo-Escleroterapia </b>{" "}
         <a
           href
           className="hyper-link"
-          onClick={() => window.open("www.clinicanieves.co", "_blank")}
+          onClick={() =>
+            window.open("https://www.youtube.com/watch?v=80VkehBP4PY", "_blank")
+          }
         >
-          direecion de en lace{" "}
+          video{" "}
         </a>
       </>
     );
@@ -53,16 +58,18 @@ const Portfolio = () => {
         <img
           className="portfolio-image-popupbox"
           src={cityGuide}
-          alt="la imagen cityGuide"
+          alt="clinica nieves yopal vista exterior"
         />
-        <p>Lorem ipsum lorem ipsum lorem ipsum </p>
-        <b>GitHub</b>{" "}
+        <p>Una de las mejores clinicas de venas de latinoamerica. </p>
+        <b>clinica nieves</b>{" "}
         <a
           href
           className="hyper-link"
-          onClick={() => window.open("www.clinicanieves.co", "_blank")}
+          onClick={() =>
+            window.open("https://www.youtube.com/watch?v=maXpQJqCM2A", "_blank")
+          }
         >
-          direecion de en lace{" "}
+          video{" "}
         </a>
       </>
     );
@@ -89,14 +96,16 @@ const Portfolio = () => {
           src={portfolio}
           alt="la imagen portfolio"
         />
-        <p>Lorem ipsum lorem ipsum lorem ipsum </p>
-        <b>GitHub</b>{" "}
+        <p>Tratamientos que funcionan requieren tecnologia y saber. </p>
+        <b>Excelencia Vascular</b>{" "}
         <a
           href
           className="hyper-link"
-          onClick={() => window.open("www.clinicanieves.co", "_blank")}
+          onClick={() =>
+            window.open("https://www.youtube.com/watch?v=VpPQLi5a4Yw", "_blank")
+          }
         >
-          direecion de en lace{" "}
+          video{" "}
         </a>
       </>
     );
@@ -123,14 +132,19 @@ const Portfolio = () => {
           src={taskManager}
           alt="la imagen taskManager"
         />
-        <p>Lorem ipsum lorem ipsum lorem ipsum </p>
-        <b>GitHub</b>{" "}
+        <p>Un quirofano moderno para los retos de la cirugía vascular. </p>
+        <b>Cirugia LASER endovenosa</b>{" "}
         <a
           href
           className="hyper-link"
-          onClick={() => window.open("www.clinicanieves.co", "_blank")}
+          onClick={() =>
+            window.open(
+              "https://www.youtube.com/watch?v=JztgZWtr_W4&t=182s",
+              "_blank"
+            )
+          }
         >
-          direecion de en lace{" "}
+          video{" "}
         </a>
       </>
     );
@@ -141,7 +155,7 @@ const Portfolio = () => {
   const popupboxConfigtaskManager = {
     titleBar: {
       enable: true,
-      text: "taskManager  imagen project.",
+      text: "el Mejor Curso LASER y Escleroterapia para Telangiectasias",
     },
     fadeIn: true,
     fadeInSpeed: 500,

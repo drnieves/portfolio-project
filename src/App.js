@@ -10,9 +10,7 @@ import Portfolio from "./components/Portfolio";
 import Testimonials from "./components/TestimonialsCarousel";
 import Contacts from "./components/Contacts";
 import Footer from "./components/Footer";
-import NavbarPoke from "./components/NavbarPoke";
-import SearchbarPoke from "./components/SearchbarPoke";
-import Pokedex from "./components/Pokedex";
+
 function App() {
   return (
     <>
@@ -24,7 +22,7 @@ function App() {
               value: "#3ca6b1",
             },
             links: {
-              color: "#e53278",
+              color: "#ffffff",
               distance: 150,
               enable: true,
               opacity: 0.5,
@@ -54,9 +52,7 @@ function App() {
       <Navbar />
 
       <Header />
-      <NavbarPoke />
-      <SearchbarPoke />
-      <Pokedex />
+
       <AboutMe />
       <Services />
       <Experience />

@@ -23,10 +23,7 @@ const Contacts = () => {
     <div id="contacto" className="contacts">
       <div className="text-center">
         <h1>Escribeme</h1>
-        <p>
-          Si deseas más información llama al +573214466552 (clinica nieves) o si
-          lo prefieres envíame tus datos y un MSN.
-        </p>
+        <p>Para mayor información escribenos o llama al +57 321 4466552.</p>
       </div>
       <div className="container">
         <form onSubmit={sendEmail}>

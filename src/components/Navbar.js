@@ -10,7 +10,7 @@ const Navbar = () => {
       <div className="container">
         <Link smooth={true} to="home" className="navbar-brand" href="#">
           <img className="logo" src={logo} alt="logo" />
-          Dr. Nieves
+          Dr. Nieves - Vascular
         </Link>
         <button
           className="navbar-toggler"
@@ -56,7 +56,7 @@ const Navbar = () => {
                 className="nav-link"
                 href="#"
               >
-                Clinica
+                Enfoque
               </Link>
             </li>
             <li className="nav-item">

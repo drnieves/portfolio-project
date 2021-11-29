@@ -18,34 +18,43 @@ const TestimonialsCarousel = () => {
       interval={3000}
     >
       <>
-        <img src={avatar1} alt="Jhon doe 1" />
+        <img src={avatar1} alt="avantar clinica nieves" />
         <div className="myCarousel">
-          <h3>hon doe1 </h3>
-          <p>lorem lorem lorem lorem </p>
+          <h3>Maria Laura G - Arauca </h3>
+          <p>
+            Llevaba años sin usar pantalones cortos o faldas; Definitivamente el
+            mejor tratamiento.{" "}
+          </p>
         </div>
       </>
 
       <>
-        <img src={avatar2} alt="Jhon doe 2" />
+        <img src={avatar2} alt="avantar clinica nieves" />
         <div className="myCarousel">
-          <h3>hon doe2 </h3>
-          <p>lorem lorem lorem lorem </p>
+          <h3>Diana M - Tunja </h3>
+          <p>
+            Me dolian mucho las piernas y tenia herida. Descanse del dolor y la
+            herida cerro. Gracias.{" "}
+          </p>
         </div>
       </>
 
       <>
-        <img src={avatar3} alt="Jhon doe 3" />
+        <img src={avatar3} alt="avatar clinica nieves" />
         <div className="myCarousel">
-          <h3>hon doe3 </h3>
-          <p>lorem lorem lorem lorem </p>
+          <h3>Sussan Finn - USA </h3>
+          <p>Una sesion fue suficiente para quitarme las arañitas. </p>
         </div>
       </>
 
       <>
-        <img src={avatar4} alt="Jhon doe 4" />
+        <img src={avatar4} alt="avantar clinica nieves" />
         <div className="myCarousel">
-          <h3>hon doe4 </h3>
-          <p>lorem lorem lorem lorem </p>
+          <h3>Carmenza L - Medellin </h3>
+          <p>
+            Sin resultados con escleroterapia , me recomendaron laser con dr.
+            nieves, luego de dos sesiones el cambio fue increible.{" "}
+          </p>
         </div>
       </>
     </Carousel>
