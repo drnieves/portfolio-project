@@ -6,10 +6,14 @@ const Header = () => {
   return (
     <div id="home" className="header-wraper">
       <div className="main-info">
-        <h1>Piernas lindas y saludables</h1>
+        <h1>el mejor curso laser para arañitas y venitas</h1>
         <Typed
           className="typed-text"
-          strings={["Adios Venitas", "Chao Arañitas", "Hola Shorts"]}
+          strings={[
+            "LASER",
+            "Cryo-Escleroterapia",
+            "Exclusividad para tus pacientes",
+          ]}
           typeSpeed={40}
           backSpeed={60}
           loop
